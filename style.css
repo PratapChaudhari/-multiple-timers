@@ -19,7 +19,7 @@ body {
 }
 
 #startTimer{
-    background: rgb(11, 178, 212) ;
+    background: rgb(227, 246, 9) ;
     border: none;
     color: #fff !important;
     font-size: 18px!important;
@@ -30,7 +30,7 @@ body {
 }
 
 #startTimer:hover{
-    background:#0be30f;
+    background:#e8f70d;
 }
 
 #para{
@@ -70,7 +70,7 @@ body {
 }
 
 .timer-ended {
-    color: red;
+    color: rgb(255, 251, 0);
 }
 
 .time-left {
@@ -92,21 +92,21 @@ body {
 }
 
 .stop-button {
-    background-color: red;
+    background-color: rgb(204, 255, 0);
     color: white;
 }
 
 .stop-button:hover {
-    background-color: rgb(205, 1, 1);
+    background-color:  rgb(204, 255, 0);
 }
 
 .delete-button {
-    background-color: red;
+    background-color: rgb(204, 255, 0);
     color: white;
 }
 
 .delete-button:hover {
-    background-color: rgb(205, 1, 1);
+    background-color: rgb(204, 255, 0);
 }
 
 #heading {
